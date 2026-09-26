@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://biloxihvacco.com/sitemap.xml
